@@ -1,20 +1,20 @@
 {
-  "name": "java",
+  "name": "java-jre",
   "description": "Bridge API to connect with existing Java APIs.",
-  "author": "Joe Ferner <joe@fernsroth.com>",
+  "author": "lvjiangbin <jiangbin.lv@carota.ai.com>",
   "keywords": [
     "java",
     "jvm",
     "bridge"
   ],
-  "version": "0.13.0",
+  "version": "0.13.01",
   "engines": {
     "node": ">=7.0.0"
   },
   "maintainers": [
     {
-      "name": "Joe Ferner",
-      "email": "joe@fernsroth.com"
+      "name": "lvjiangbin",
+      "email": "jiangbin.lv@carota.ai.com"
     }
   ],
   "bugs": {

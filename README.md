@@ -1,3 +1,5 @@
+在以下基础上仅仅对findjavahome.js做了修改
+
 [![Build Status](https://travis-ci.com/joeferner/node-java.svg?branch=master)](https://travis-ci.com/joeferner/node-java)
 
 # java
